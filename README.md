@@ -10,7 +10,7 @@ Prueba técnica FrontEnd para la convocatoria UAPA 821 de la Universidad Naciona
 - Tailwind CSS
 
 ## Demo Online
-A través del siguiente enlace se puede probar la Landing Page en funcionamiento: 
+A través del siguiente enlace se puede probar la Landing Page en funcionamiento: [Landing Page UAPA](landing-page-uapa-lilac.vercel.app)
 
 ## Demo Offline
 Es posible ejecutar el proyecto de manera local, para ello, sigue los siguientes pasos:
@@ -33,3 +33,7 @@ npm run dev
 La consola te brinda un enlace para acceder a la página (por defecto http://localhost/5173)
 
 
+Desarrollada por:
+Diego Nicolás Ramírez Maldonado - dieramirezma@unal.edu.co
+Estudiante de Ingeniería de Sistemas y Computación
+Universidad Nacional de Colombia

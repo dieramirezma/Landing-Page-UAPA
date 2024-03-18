@@ -1,0 +1,38 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: 'Graphik-Bold';
+    src: url('../public/fonts/Graphik-Family/Graphik-Bold.otf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Graphik-Regular';
+    src: url('../public/fonts/Graphik-Family/Graphik-Regular.otf') format('truetype');
+    font-weight: lighter;
+}
+
+.font-thin {
+    font-family: 'Graphik-Regular', sans-serif;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Graphik-Regular', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Graphik-Bold', sans-serif;
+}
+
+.links:hover {
+    color: #3B82F6;
+}
+
+.btnEffect:hover {
+    background-color: #1568ff;
+}
